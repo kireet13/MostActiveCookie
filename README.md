@@ -8,5 +8,5 @@
 
 java -jar MostActiveCookie-1.0-SNAPSHOT-jar-with-dependencies.jar -d 2018-12-08 -f file.csv
 
-- Jar file and code base is attached with the mail itself
-- Make sure the file is present in the same path as jar file.
+- Jar file and code base is attached here only.
+- Make sure the csv file is present in the same path as jar file.
